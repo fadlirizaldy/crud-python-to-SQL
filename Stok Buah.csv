@@ -1,0 +1,11 @@
+,ID,name,asal,stok,harga_satuan
+0,1,Apel,Impor,20,32000
+1,2,Pisang,Lokal,30,15000
+2,3,Jeruk,Lokal,40,25000
+3,4,Pir,Impor,25,21000
+4,5,Rambutan,Lokal,30,12000
+5,6,Anggur,Impor,10,40000
+6,7,Lemon,Impor,12,35000
+7,8,Sawo,Lokal,15,15000
+8,9,Salak,Lokal,25,12000
+9,10,Jambu,Lokal,20,10000
